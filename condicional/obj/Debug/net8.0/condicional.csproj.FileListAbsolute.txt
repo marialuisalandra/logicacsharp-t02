@@ -1,0 +1,15 @@
+C:\Users\maryy\source\repos\condicional\bin\Debug\net8.0\condicional.exe
+C:\Users\maryy\source\repos\condicional\bin\Debug\net8.0\condicional.deps.json
+C:\Users\maryy\source\repos\condicional\bin\Debug\net8.0\condicional.runtimeconfig.json
+C:\Users\maryy\source\repos\condicional\bin\Debug\net8.0\condicional.dll
+C:\Users\maryy\source\repos\condicional\bin\Debug\net8.0\condicional.pdb
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\condicional.AssemblyInfoInputs.cache
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\condicional.AssemblyInfo.cs
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\condicional.csproj.CoreCompileInputs.cache
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\condicional.sourcelink.json
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\condicional.dll
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\refint\condicional.dll
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\condicional.pdb
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\condicional.genruntimeconfig.cache
+C:\Users\maryy\source\repos\condicional\obj\Debug\net8.0\ref\condicional.dll
