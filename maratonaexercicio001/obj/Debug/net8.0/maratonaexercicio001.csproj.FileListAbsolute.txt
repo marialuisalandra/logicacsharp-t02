@@ -12,3 +12,4 @@ C:\Users\maryy\source\repos\maratonaexercicio001\obj\Debug\net8.0\refint\maraton
 C:\Users\maryy\source\repos\maratonaexercicio001\obj\Debug\net8.0\maratonaexercicio001.pdb
 C:\Users\maryy\source\repos\maratonaexercicio001\obj\Debug\net8.0\maratonaexercicio001.genruntimeconfig.cache
 C:\Users\maryy\source\repos\maratonaexercicio001\obj\Debug\net8.0\ref\maratonaexercicio001.dll
+C:\Users\maryy\source\repos\maratonaexercicio001\obj\Debug\net8.0\maratonaexercicio001.sourcelink.json

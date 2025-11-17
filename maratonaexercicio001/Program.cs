@@ -8,8 +8,8 @@ uma string com aspas duplas.*/
 
 Console.WriteLine("Digite seu nome: ");
 string nome = Console.ReadLine();
-Console.WriteLine($"Olá {nome}! Bem-vindo ao nosso site!");
-Console.WriteLine("Olá " + nome + "! Bem-vindo ao nosso site!\n");
+Console.WriteLine($"Olá {nome}! Bem-vindo ao nosso site!"); 
+Console.WriteLine("Olá " + nome + "! Bem-vindo ao nosso site!\n"); 
 
 /*2. Conversão de Temperatura (Celsius para Fahrenheit)
 Objetivo: Trabalhar com cálculos matemáticos e variáveis.
@@ -90,7 +90,7 @@ desconto e calcule o valor final.*/
 
 Console.WriteLine("Quanto custa o produto?");
 double valorProduto = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Quanto de desconto você teve?");
+Console.WriteLine("Quanto de desconto você teve? (%)");
 double desconto = Convert.ToDouble(Console.ReadLine());
 
 double valorDoDesconto = (valorProduto * desconto) / 100 ;
