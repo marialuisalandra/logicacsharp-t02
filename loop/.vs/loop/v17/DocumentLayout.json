@@ -1,10 +1,18 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\maria.llandra1\\source\\repos\\loop\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{980D6811-00BC-46C5-9E25-6BD0B4505238}|loop.csproj|c:\\users\\maria.llandra1\\source\\repos\\loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{980D6811-00BC-46C5-9E25-6BD0B4505238}|loop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\maryy\\source\\repos\\loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BA77A9-5D5F-4D32-8DEC-A4834812E79D}|loop.csproj|c:\\users\\maryy\\source\\repos\\loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA77A9-5D5F-4D32-8DEC-A4834812E79D}|loop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 9f47b86d985fb4c935b3198a7238e8bdfa592a04
     }
   ],
   "DocumentGroupContainers": [
@@ -14,13 +22,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> 9f47b86d985fb4c935b3198a7238e8bdfa592a04
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -31,6 +44,22 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T17:28:35.243Z",
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maryy\\source\\repos\\loop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maryy\\source\\repos\\loop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T00:41:37.262Z",
+>>>>>>> 9f47b86d985fb4c935b3198a7238e8bdfa592a04
               "EditorCaption": ""
             }
           ]

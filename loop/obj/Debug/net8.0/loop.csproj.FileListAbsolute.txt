@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\maria.llandra1\source\repos\loop\bin\Debug\net8.0\loop.exe
 C:\Users\maria.llandra1\source\repos\loop\bin\Debug\net8.0\loop.deps.json
 C:\Users\maria.llandra1\source\repos\loop\bin\Debug\net8.0\loop.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\maria.llandra1\source\repos\loop\obj\Debug\net8.0\refint\loop.dll
 C:\Users\maria.llandra1\source\repos\loop\obj\Debug\net8.0\loop.pdb
 C:\Users\maria.llandra1\source\repos\loop\obj\Debug\net8.0\loop.genruntimeconfig.cache
 C:\Users\maria.llandra1\source\repos\loop\obj\Debug\net8.0\ref\loop.dll
+=======
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\loop.AssemblyInfoInputs.cache
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\loop.AssemblyInfo.cs
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\loop.csproj.CoreCompileInputs.cache
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\loop.sourcelink.json
+C:\Users\maryy\source\repos\loop\bin\Debug\net8.0\loop.exe
+C:\Users\maryy\source\repos\loop\bin\Debug\net8.0\loop.deps.json
+C:\Users\maryy\source\repos\loop\bin\Debug\net8.0\loop.runtimeconfig.json
+C:\Users\maryy\source\repos\loop\bin\Debug\net8.0\loop.dll
+C:\Users\maryy\source\repos\loop\bin\Debug\net8.0\loop.pdb
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\loop.dll
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\refint\loop.dll
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\loop.pdb
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\loop.genruntimeconfig.cache
+C:\Users\maryy\source\repos\loop\obj\Debug\net8.0\ref\loop.dll
+>>>>>>> 9f47b86d985fb4c935b3198a7238e8bdfa592a04

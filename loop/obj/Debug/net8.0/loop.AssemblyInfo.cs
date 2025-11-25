@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95950df5868af2a4cd6616b6a94af11a0b3abf2d")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d2c07a702166c015d2d4a2d05af09224ae9282a")]
+>>>>>>> 9f47b86d985fb4c935b3198a7238e8bdfa592a04
 [assembly: System.Reflection.AssemblyProductAttribute("loop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

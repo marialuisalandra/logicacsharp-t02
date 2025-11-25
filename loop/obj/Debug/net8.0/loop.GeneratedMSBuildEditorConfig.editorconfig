@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = loop
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\maria.llandra1\source\repos\loop\
+=======
+build_property.ProjectDir = C:\Users\maryy\source\repos\loop\
+>>>>>>> 9f47b86d985fb4c935b3198a7238e8bdfa592a04
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0

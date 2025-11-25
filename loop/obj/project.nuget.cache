@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "uDGvUY1gh7w=",
   "success": true,
   "projectFilePath": "C:\\Users\\maria.llandra1\\source\\repos\\loop\\loop.csproj",
+=======
+  "dgSpecHash": "1MwvCv3tNpQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maryy\\source\\repos\\loop\\loop.csproj",
+>>>>>>> 9f47b86d985fb4c935b3198a7238e8bdfa592a04
   "expectedPackageFiles": [],
   "logs": []
 }
